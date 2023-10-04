@@ -11,7 +11,7 @@ They are written in your Unity Installation, in `Editor/Data/Resources/ScriptTem
 To setup my custom Unity script tempates, download or clone this repo into your Unity install folder. If your Unity editor is open when you set these files, close it and reopen it.
 
 ```bash
-git clone https://github.com/DaCookie/unity-script-templates
+git clone https://github.com/thatgamecoder/unity-script-templates.git
 ```
 
 Now, if you try to create a new Asset (by right-clicking in the `Project` view, or from `Assets` menu), you can see some new menus for script creation !
